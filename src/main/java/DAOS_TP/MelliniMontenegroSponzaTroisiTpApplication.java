@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 /**
  * Damian Sponza -1natiagos@gmail.com
  * Elián Montenegro - elianmonte@gmail.com
- */
+ * Alejandro Troisi - troisi.alejandro@gmail.com
 
 
 @SpringBootApplication
